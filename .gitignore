@@ -1,0 +1,9 @@
+.venv
+.vscode
+__pycache__
+*.pt
+*.tar.gz
+*.tsv
+*.txt
+*.npy
+glove_data
